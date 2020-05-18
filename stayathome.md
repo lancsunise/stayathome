@@ -15,15 +15,38 @@ toc-own-page: true
 toc-title: Index
 ...
 
+# Why This Booklet?
+
+The core reason is the disturbance caused by the unfortunate coronavirus. The virus caused cancelling of exams...
+
 # Coding Challenges
 
 ## Introduction
 
-Lorem markdownum includite volenti monticolae videre vocem hac sparsit puta
-gelidis vestros egressus sex. Undis eris per auguris armis. Est saevior pater.
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+This chapter contains a few code challenges reused from \texttt{LeetCode}. If you haven't heard of \texttt{LeetCode}, it's an online programming learning platform that contains 1000+ different coding chanllenges ranging from easy to hard. \texttt{LeetCode} is not the only such platform. Similar platforms are \texttt{HackerRank}, \texttt{TopCoder}, \texttt{geeksforgeeks}, \texttt{CodeChef} and probably many many more. What are these platforms used for? Mostly for preparing for coding interviews with software companies. Have a look at [InterviewInsider](https://interviewinsider.io/) at types of questions asked in interviews across different large software companies. For most of them you will see that companies look for medium difficulty questions (as classified by \texttt{LeetCode}).
 
-## Subtitle
+This chapter suggests several interesting easy and medium difficulty questions, but if you find it too difficult or too easy, feel free to hone into other \texttt{LeetCode} questions. To make things a bit more interesting, we started a Moodle discussion on these challenges. That Moodle space is for you to discuss these challenges with your peers from distance. Feel free to share ideas, hints, time and space complexity of your solutions. If you are struggling to find a solution (and \texttt{LeetCode} doesn't provide one), ask your peers for help. Of course, you can start new discussion for questions that are not in this booklet. The aim is to stay engaged and have fun in this no exam preparation period. The only things we ask is to be polite and not share complete code solutions, as then the fun stops.
+
+## Two Sum
+
+### Challenge
+
+> Difficulty: easy; Link: [LeetCode](https://leetcode.com/problems/two-sum/)
+
+Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice. Example:
+
+```
+Given nums = [2, 7, 11, 15], target = 9,
+
+Because nums[0] + nums[1] = 2 + 7 = 9,
+return [0, 1].
+```
+
+This challenge is to warm up yourself. Of course, there are many possible solutions to this exercise, but some solutions are better than others. One advice is to start with the simplest solution and then improve. Try not to look at the solution tab on \texttt{LeetCode} before you try really hard to come up with a solution yourself.
+
+An obvious solution to this exercise would be a brute force approach (using two loops). That would work, though ineffeciently on big arrays. More precisely, the brute force approach would cost us $O(n^2)$ in time complexity and $O(1)$ in space complexity. Apart from the brute force solution, \texttt{LeetCode} offers two more possible solutions. Both other solutions with time complexity of $O(n)$ and space complexity $O(n)$. Before you look at these, try to ...
+
+Big challenge. Can we do even more effectiently???
 
 Mulciber denique faces ingratus, in umeros umeri cum, iram ira custos non.
 Pariterque admissa nubes, in ait ecce setae summis sacrorum me gaudete tellus.
