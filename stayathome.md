@@ -273,7 +273,12 @@ https://github.com/lancsunise/stayathome/pulls
 ```
 git checkout master
 ```
-16. That's it. Once reviewed, your changes will be merged. Once enough changes are made, a new version may be released.
+16. If you are sure you don't want to change anything else on your branch, you can delete it (only locally on your machine!):
+```
+git branch -d my_fix_branch
+git branch
+```
+17. That's it. Once reviewed, your changes will be merged. Once enough changes are made, a new version may be released.
 
 # References
 
