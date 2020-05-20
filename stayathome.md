@@ -28,7 +28,7 @@ This booklet is prepared for all undergraduate students. So, you may come across
 
 This chapter contains a few code challenges reused from \texttt{LeetCode}. If you haven't heard of \texttt{LeetCode}, it's an online programming learning platform that contains 1000+ different coding chanllenges ranging from easy to hard. \texttt{LeetCode} is not the only such platform. Similar platforms are \texttt{HackerRank}, \texttt{TopCoder}, \texttt{geeksforgeeks}, \texttt{CodeChef} and probably many many more. What are these platforms used for? Mostly for preparing for coding interviews with software companies. Have a look at [InterviewInsider](https://interviewinsider.io/) at types of questions asked in interviews across different large software companies. For most of them you will see that companies look for medium difficulty questions (as classified by \texttt{LeetCode}).
 
-This chapter suggests several interesting easy and medium difficulty questions, but if you find it too difficult or too easy, feel free to hone into other \texttt{LeetCode} questions. To make things a bit more interesting, we started a Moodle discussion on these challenges. That Moodle space is for you to discuss these challenges with your peers from distance. Feel free to share ideas, hints, time and space complexity of your solutions. If you are struggling to find a solution (and \texttt{LeetCode} doesn't provide one), ask your peers for help. Start new discussions for questions that are not in this booklet. The aim is to stay engaged and have fun in this "no exam preparation" period. The only things we ask is to be polite and not share complete code solutions, as then the fun stops.
+This chapter suggests several interesting easy and medium difficulty questions, but if you find it too difficult or too easy, feel free to hone into other \texttt{LeetCode} questions. To make things a bit more interesting, we suggest that you discuss these challenges with your peers via Moodle discussion ([Year 1](), [Year 2](), [Year 3]()). Feel free to share ideas, hints, time and space complexity of your solutions. If you are struggling to find a solution (and \texttt{LeetCode} doesn't provide one), ask your peers for help. Start new discussions for questions that are not in this booklet. The aim is to stay engaged and have fun in this "no exam preparation" period. The only things we ask is to be polite and not share complete code solutions, as then the fun stops.
 
 ## Big O
 
@@ -64,6 +64,8 @@ HashTables
 ------------------------------------------------------------------
 
 > Hint: if you are a final year student, start brushing up on these concepts (of course, if you want to get into development...)
+
+OK, now you are good to go to some coding challenges.
 
 ## Two Sum
 
@@ -214,13 +216,27 @@ Once you've learnt variables, if statements, loops and functions you can code pr
 
 ## Spotted an error?
 
-Have you found errors somewhere in the text? Or you want to contribute some challenge, cool link you found about, or another CS fact. Consider contributing.
+Have you found any errors somewhere in the text? Or you want to contribute some challenges, cool URLs, or other CS facts. Consider contributing.
 
 ## How can I contribute?
 
-The way computer science people do. Via pull requests on github. This booklet is shared [here](https://github.com/lancsunise/stayathome).
+The way (some) software professionals do. Via pull requests on github. This booklet is shared [here](https://github.com/lancsunise/stayathome).
 
-When developers work on big projects they use a version control system (e.g. git). Keeping code under version control helps immensely to build software. But, it's not only limited to code. This booklet is done under version control, so its whole history is visible. Another benefit is that if you find an error in text ("bug"), then you don't need to send emails to anyone to fix that error. You can do it on your own.
+When developers work on a big project they use a version control system (e.g. git). Keeping code under a version control helps immensely to build software. But, a version control is not only limited to the code. Text, books, or virtually any files are allowed under a version control system, allowing you to see the whole history of files. The benefit of a version control system in our case is that if you find an error in the text, then you have the complete freedom to directly patch the error and create a pull request. If your correction is correct, I will merge the changes into the master branch.
+
+## Branches
+
+The copy of this booklet lives on the master branch. To make changes, you need:
+
+1. Clone the repository locally on your computer:
+```
+git clone https://github.com/lancsunise/stayathome
+```
+2. Create a new branch where you will apply a fix (you can replace my_fix_branch with any other name describing what you are fixing):
+```
+git checkout -b my_fix_branch
+```
+3. Apply the fix
 
 ## Pull Requests
 
