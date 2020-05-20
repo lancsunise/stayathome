@@ -236,7 +236,15 @@ git clone https://github.com/lancsunise/stayathome
 ```
 git checkout -b my_fix_branch
 ```
-3. Apply the fix
+3. Before you apply the fix, you can check that the new branch has been created and you are on it (you're on the branch where git shows a star sign next to it (*)):
+```
+git branch
+```
+4. Apply the fix
+5. Ideally, you use Linux and have the `pandoc` and `latex` software installed. If you do, you should run the `build.sh` script:
+```
+./path/to/the/script/stayathome/build.sh
+```
 
 ## Pull Requests
 
