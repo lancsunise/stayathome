@@ -2,13 +2,13 @@
 
 ## Spotted an error?
 
-Have you found any errors somewhere in the text? Or you want to contribute some challenges, cool URLs, or other CS facts. Consider contributing.
+Have you found any errors somewhere in the text? Would you like to contribute some challenges, cool URLs, or other CS facts?
 
 ## How can I contribute?
 
 The way (some) software professionals do. Via pull requests on github. This booklet is shared [here](https://github.com/lancsunise/stayathome).
 
-When developers work on a big project they use a version control system (e.g. git). Keeping code under a version control helps immensely to build software. But, a version control is not only limited to the code. Text, books, or virtually any files are allowed under a version control system, allowing you to see the whole history of files. The benefit of a version control system in our case is that if you find an error in the text, then you have the complete freedom to directly patch the error and create a pull request. If your correction is correct, I will merge the changes into the master branch.
+When developers work on a big project they use a version control system (e.g. git). Keeping code under a version control helps immensely to build software. But, a version control is not only limited to the code. Text, books, or virtually any files are allowed under a version control system, allowing you to see the whole history of files. The benefit of a version control system in our case is that if you find an error in the text, then you have the complete freedom to directly patch the error and create a pull request. If your correction is valid, I will merge the changes into the master branch.
 
 ## Branches and Pull Requests
 
