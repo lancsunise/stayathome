@@ -14,12 +14,12 @@ Once you've learnt variables, if statements, loops and functions you can code pr
 
 ### C/C++
 
-+ The C Programming Language by Brian Kernighan and Dennis Ritchie: in my opinion this is one of the most important programming books. It shows how things in computer science are not actually moving that quick. Yes, we can new things, but the main concepts remain.
++ The C Programming Language by Brian Kernighan and Dennis Ritchie: in my opinion this is one of the most important programming books. It shows how things in computer science are not actually moving that quick. Yes, new things do come out, but the main concepts remain the same.
 + C++ Primer by Josee Lajoie and Stanley B. Lippman: this book is virtually a reference book as well. It contains most of the modern C++ features and it is a pretty decent book to have in your collection if you're into C++.
 
 ### Other Languages
 
-> Everyone has their favourite languages. If your favourite language isn't covered here, which book or tutorial did you follow to learn the language. Fancy sharing that with your peers? Jump to "Participation" to see how to contribute.
+> Everyone has their favourite languages. If your favourite language isn't covered here, which book or tutorial did you follow to learn the language? Jump to "Participation" to see how to contribute.
 
 ## Concurrency
 
@@ -29,7 +29,7 @@ Once you've learnt variables, if statements, loops and functions you can code pr
 ## Object Oriented Programming
 
 + Design Patterns: Elements of Reusable Object-Oriented Software by Gamma et al.: this book is a classic. Have you heard the phrase "Gang of Four"? Well, this is the book from the gang in question. Four authors who influenced OOP from the 90s onwards.
-+ [Game Programming Patterns by Bob Nystrom](https://gameprogrammingpatterns.com/): in my opinion the best book to explain desing patterns in an interesting way + using many game examples. Very useful if you're on an SCC.210 module. The best of all, the online version is free. Also, each pattern is more or less self-contained so read only what you're interested in.
++ [Game Programming Patterns by Bob Nystrom](https://gameprogrammingpatterns.com/): in my opinion the best book to explain design patterns in an interesting way + using many game examples. Very useful if you're on an SCC.210 module. Best of all, the online version is free. Also, each pattern is more or less self-contained, so read only what you're interested in.
 
 ## General Software Engineering
 
