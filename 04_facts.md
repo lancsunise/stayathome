@@ -2,7 +2,7 @@
 
 1. Linus Torvalds developed the first version of Linux when he was roughly your age. Read his [first email](https://groups.google.com/forum/#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ) where he announced Linux.
 
-2. We don't hear often about Claude Shannon, but his [article](https://web.archive.org/web/19980715013250/http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf) is the founding work of the field of information theory. Maybe you've heard about _information entropy_ - that's from Shannon's work. One very useful application of _information entropy_ is loseless compression.
+2. We don't hear often about Claude Shannon, but his [article](https://web.archive.org/web/19980715013250/http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf) is the founding work of the field of information theory. Maybe you've heard about _information entropy_ - that's from Shannon's work. One very useful application of _information entropy_ is lossless compression.
 
 3. The term "software engineering" was coined by Margaret Hamilton, who is one of the first computer programmers. She was director of the software engineering at MIT which developed on-board flight software for [NASA's Apollo program](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)).
 

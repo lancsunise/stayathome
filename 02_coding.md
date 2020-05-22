@@ -17,7 +17,7 @@ If you haven't come across the term in the title yet don't worry. Hint: descript
 
 ## Know your algorithms and data structures
 
-Most of you have come across algorithms and data structures even if you haven't always formally called them this way. Let's test this. Have you used arrays before? Sure you have. So now you know how to place values one after another into the memory for an efficient way to access them. Have you used ArrayList? It's another structure, very similar to the vanilla arrays, with some extra neat features. In any case, now is a good time to search the Internet and find more about algorithms and data structures. They will be immenisley useful for the challenges below and beyond. Consider the next challenge as a good **start** for testing (or starting to acquire) your knowledge about algorithms and data structures:
+Most of you have come across algorithms and data structures even if you haven't always formally called them this way. Let's test this. Have you used arrays before? Sure you have. So now you know how to place values one after another into the memory for an efficient way to access them. Have you used ArrayList? It's another structure, very similar to the vanilla arrays, with some extra neat features. In any case, now is a good time to search the Internet and find more about algorithms and data structures. They will be immensly useful for the challenges below and beyond. Consider the next challenge as a good **start** for testing (or starting to acquire) your knowledge about algorithms and data structures:
 
 > Challenge 0.1: Between ArrayList and LinkedList (Java), which one is faster? In what cases is one faster than the other? What's the time and space complexity of each for different operations (e.g. add, remove, etc.)?
 
@@ -57,9 +57,9 @@ Given an array of integers, return indices of the two numbers such that they add
 
 This is another warm up challenge. Of course, there are many possible solutions to this exercise, but some solutions are better than others. One advice is to start with the simplest solution and then improve. Try not to look at the solution tab on \texttt{LeetCode} before you try really hard to come up with a solution yourself.
 
-An obvious solution to this exercise would be a brute force approach (using two loops). That would work, though ineffeciently on big arrays. More precisely, the brute force approach would cost us $O(n^2)$ in time complexity and $O(1)$ in space complexity. Apart from the brute force solution, \texttt{LeetCode} offers two more possible solutions. Both other solutions with time complexity of $O(n)$ and space complexity $O(n)$. Before you look at these, try to see how you would bring the time and space complexity down to $O(n)$.
+An obvious solution to this exercise would be a brute force approach (using two loops). That would work, though inefficiently on big arrays. More precisely, the brute force approach would cost us $O(n^2)$ in time complexity and $O(1)$ in space complexity. Apart from the brute force solution, \texttt{LeetCode} offers two more possible solutions. Both other solutions with time complexity of $O(n)$ and space complexity $O(n)$. Before you look at these, try to see how you would bring the time and space complexity down to $O(n)$.
 
-> Challenge 1: Can this problem be done even more effeciently? Let's say, time complexity $O(n)$ and space complexity $O(1)$. Forum discussion is more than welcome here!
+> Challenge 1: Can this problem be done even more efficiently? Let's say, time complexity $O(n)$ and space complexity $O(1)$. Forum discussion is more than welcome here!
 
 ## Subsets
 
