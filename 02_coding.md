@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This chapter contains a few code challenges reused from \texttt{LeetCode}. If you haven't heard of \texttt{LeetCode}, it's an online programming learning platform that contains 1000+ different coding chanllenges ranging from easy to hard. \texttt{LeetCode} is not the only such platform. Similar platforms are \texttt{HackerRank}, \texttt{TopCoder}, \texttt{geeksforgeeks}, \texttt{CodeChef} and probably many many more. What are these platforms used for? Mostly for preparing for coding interviews with software companies. Have a look at [InterviewInsider](https://interviewinsider.io/) at types of questions asked in interviews across different large software companies. For most of them you will see that companies look for medium difficulty questions (as classified by \texttt{LeetCode}).
+This chapter contains a few code challenges reused from \texttt{LeetCode}. If you haven't heard of \texttt{LeetCode}, it's an online programming learning platform that contains 1000+ different coding chanllenges ranging from easy to hard. \texttt{LeetCode} is not the only such platform. Similar platforms are \texttt{HackerRank}, \texttt{TopCoder}, \texttt{geeksforgeeks}, \texttt{CodeChef} and probably many many more. What are these platforms used for? Mostly to prepare for coding interviews with software companies. Have a look at [InterviewInsider](https://interviewinsider.io/) at types of questions asked in interviews across different large software companies. For most of them you will see that companies look for medium difficulty questions (as classified by \texttt{LeetCode}).
 
-This chapter suggests several interesting easy and medium difficulty questions, but if you find it too difficult or too easy, feel free to hone into other \texttt{LeetCode} questions. To make things a bit more interesting, we suggest that you discuss these challenges with your peers via Moodle discussion ([Year 1](), [Year 2](), [Year 3]()). Feel free to share ideas, hints, time and space complexity of your solutions. If you are struggling to find a solution (and \texttt{LeetCode} doesn't provide one), ask your peers for help. Start new discussions for questions that are not in this booklet. The aim is to stay engaged and have fun in this "no exam preparation" period. The only things we ask is to be polite and not share complete code solutions, as then the fun stops.
+This chapter suggests several interesting easy and medium difficulty questions, but if you find it too difficult or too easy, feel free to explore other \texttt{LeetCode} questions. To make things a bit more interesting, we suggest that you discuss these challenges with your peers via Moodle discussion ([Year 1](), [Year 2](), [Year 3]()). Feel free to share ideas, hints, time and space complexity of your solutions. If you are struggling to find a solution (and \texttt{LeetCode} doesn't provide one), ask your peers for help. Start new discussions for questions that are not in this booklet. The aim is to stay engaged and have fun in this "no exam preparation" period. The only things we ask is to be polite and not share complete code solutions, because then the fun stops.
 
 ## Big O
 
@@ -55,7 +55,7 @@ Given an array of integers, return indices of the two numbers such that they add
 > return [0, 1].
 > ```
 
-This is another challenge for warming up yourself. Of course, there are many possible solutions to this exercise, but some solutions are better than others. One advice is to start with the simplest solution and then improve. Try not to look at the solution tab on \texttt{LeetCode} before you try really hard to come up with a solution yourself.
+This is another warm up challenge. Of course, there are many possible solutions to this exercise, but some solutions are better than others. One advice is to start with the simplest solution and then improve. Try not to look at the solution tab on \texttt{LeetCode} before you try really hard to come up with a solution yourself.
 
 An obvious solution to this exercise would be a brute force approach (using two loops). That would work, though ineffeciently on big arrays. More precisely, the brute force approach would cost us $O(n^2)$ in time complexity and $O(1)$ in space complexity. Apart from the brute force solution, \texttt{LeetCode} offers two more possible solutions. Both other solutions with time complexity of $O(n)$ and space complexity $O(n)$. Before you look at these, try to see how you would bring the time and space complexity down to $O(n)$.
 
@@ -96,4 +96,4 @@ Given n non-negative integers $a_1$, $a_2$, ..., $a_n$ , where each represents a
 
 ## More Challenges
 
-This is just a small subset of challenges. Let's say for one week of fun. You can find many more on the websites provided in the Introduction and work on them at your own pace. P.s. If you come across interesting ones, share them on Moodle. If you've had enough of this type of exercises, then perhaps you find some interesting readings in the next chapter. 
+This is just a small subset of challenges. Let's say for one week of fun. You can find many more on the websites provided in the Introduction and work on them at your own pace. P.s. If you come across interesting ones, share them on Moodle. If you've had enough of this type of exercises, then perhaps you will find some interesting readings in the next chapter. 
