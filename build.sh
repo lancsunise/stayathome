@@ -1,1 +1,1 @@
-pandoc *.md -o stayathome.pdf --from markdown --template template/eisvogel --bibliography ref.bib --top-level-division=chapter
+pandoc 00_header.md 01_why.md 02_coding.md 03_readings.md 04_facts.md 05_participation.md -o stayathome.pdf --from markdown --template template/eisvogel --bibliography ref.bib --top-level-division=chapter
