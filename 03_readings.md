@@ -48,7 +48,7 @@ Once you've learnt variables, if statements, loops and functions you can code pr
 
 ## Data Science
 
-+ Foundamentals of Data Visualisation by Claus O. Wilke: next time you generate graphs from your user study for SCC.210 (yes, again SCC.210, but also useful everywhere else where you need to present some graphs), first have a look at this book. This book will tell you precisely how to make graphs so that during the Q&A time you don't get a question what values are on the $x$-axis. This book is truly great and you can read it for free online!
++ Fundamentals of Data Visualisation by Claus O. Wilke: next time you generate graphs from your user study for SCC.210 (yes, again SCC.210, but also useful everywhere else where you need to present some graphs), first have a look at this book. This book will tell you precisely how to make graphs so that during the Q&A time you don't get questions about what values are on the $x$-axis. This book is truly great and you can read it for free online!
 + Data Science from Scratch - First Principles with Python: many books teach concepts and then they apply those concepts using some existing solutions. This book is different. It goes through most concepts from scratch - i.e. by implementing some basic operations such as variance, covariance, correlation, etc. An interesting read for sure.
 
 ## Machine Learning
